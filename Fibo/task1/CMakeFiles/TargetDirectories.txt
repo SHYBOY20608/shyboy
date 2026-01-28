@@ -1,0 +1,3 @@
+/home/shy/Fibonacci/task1/CMakeFiles/main.dir
+/home/shy/Fibonacci/task1/CMakeFiles/edit_cache.dir
+/home/shy/Fibonacci/task1/CMakeFiles/rebuild_cache.dir

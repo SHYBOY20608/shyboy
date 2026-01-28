@@ -1,0 +1,5 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=/home/shy/Fibonacci/task3/fibo.sh
+Type=Application
+Name=auto-start
